@@ -1,3 +1,8 @@
+gatsby/gatsbyT1/node_modules/*
+tic-tac-toe/WebApplication1/WebApplication1/my-app/node_modules/*
+todo1/node_modules/*
+voting-server/node_modules/*
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
